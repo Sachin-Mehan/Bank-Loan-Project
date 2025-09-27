@@ -60,8 +60,6 @@ The analysis focused on three main areas: **Summary**, **Overview**, and **Detai
 
 ## 🖼️ Visualizations and Screenshots
 
-The following visualizations are included in the project to illustrate the analysis across different tools. They can be found in the **GitHub repository's root folder** or a dedicated **`visualizations`** folder for better readability.
-
 | Tool/Format | Screenshot Description | Files to Upload |
 | :--- | :--- | :--- |
 | **PowerBI** | Bank Loan Report - Summary Dashboard | <img width="1280" height="718" alt="Screenshot 2025-09-27 123647" src="https://github.com/user-attachments/assets/10b7c39d-3385-434c-9906-4a321f8426df" /> |
