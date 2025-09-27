@@ -1,4 +1,4 @@
-<img width="1404" height="710" alt="Screenshot 2025-09-27 123426" src="https://github.com/user-attachments/assets/17794de7-5328-468d-87dc-b903fc0e8095" /># 🏦 Bank Loan Data Analysis Project
+# 🏦 Bank Loan Data Analysis Project
 
 This project involves a comprehensive data analysis of bank loan application data. The analysis covers key performance indicators (KPIs), trend analysis, geographical distribution, and a breakdown of loan status (Good vs. Bad Loans), with visualizations created across multiple popular tools and the underlying data verified using SQL.
 
