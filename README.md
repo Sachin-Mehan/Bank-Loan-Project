@@ -1,4 +1,4 @@
-# 🏦 Bank Loan Data Analysis Project
+<img width="1404" height="710" alt="Screenshot 2025-09-27 123426" src="https://github.com/user-attachments/assets/17794de7-5328-468d-87dc-b903fc0e8095" /># 🏦 Bank Loan Data Analysis Project
 
 This project involves a comprehensive data analysis of bank loan application data. The analysis covers key performance indicators (KPIs), trend analysis, geographical distribution, and a breakdown of loan status (Good vs. Bad Loans), with visualizations created across multiple popular tools and the underlying data verified using SQL.
 
@@ -64,31 +64,17 @@ The following visualizations are included in the project to illustrate the analy
 
 | Tool/Format | Screenshot Description | Files to Upload |
 | :--- | :--- | :--- |
-| **PowerBI** | Bank Loan Report - Summary Dashboard | The screenshot with **"BANK LOAN REPORT | SUMMARY"** selected. |
-| **PowerBI** | Bank Loan Report - Overview Dashboard | The screenshot with **"BANK LOAN REPORT | OVERVIEW"** selected. |
-| **PowerBI** | Bank Loan Report - Details Table | The screenshot with **"BANK LOAN REPORT | DETAILS"** selected. |
-| **Excel** | Excel Dashboard - Overview | The screenshot showing the **PowerBI-style Overview** with dark background (The one with grade/purpose slicers). |
-| **Excel** | Excel Dashboard - Summary | The screenshot showing the **PowerBI-style Summary** with dark background (The one with loan applications/funded/received amount breakdown). |
-| **Python** | Loan Applications by Term (Donut) | The donut chart titled **"Total loan applications by term..."** |
-| **Python** | Loan Applications by Employee Length | The horizontal bar chart titled **"Total Loan Applications by Employee Length"**. |
-| **Python** | Loan Applications by Purpose | The horizontal bar chart titled **"Total Loan Applications by Loan Purpose"**. |
-| **Python** | Loan Applications by Home Ownership | The Treemap titled **"Total Loan Applications by Home Ownership"**. |
-| **Python** | Total Applications by Month Trend | The area chart titled **"Total Applicatons by Month"**. |
-| **Python** | Total Received/Funded Amount by Month Trend | The area charts titled **"Total Received Amount by Month"** and **"Total Funded Amount by Month"**. |
-| **Python** | Total Applications/Amount by State | The horizontal bar charts titled **"Total Received Amount by State,"** **"Total Funded Amount by State,"** and **"Total Loan Applications by State"**. |
+| **PowerBI** | Bank Loan Report - Summary Dashboard | <img width="1280" height="718" alt="Screenshot 2025-09-27 123647" src="https://github.com/user-attachments/assets/10b7c39d-3385-434c-9906-4a321f8426df" /> |
+| **PowerBI** | Bank Loan Report - Overview Dashboard | <img width="1277" height="719" alt="Screenshot 2025-09-27 123657" src="https://github.com/user-attachments/assets/002bbdc6-6952-47f0-91be-abff75d59cc1" /> |
+| **PowerBI** | Bank Loan Report - Details Table | <img width="1281" height="719" alt="Screenshot 2025-09-27 123718" src="https://github.com/user-attachments/assets/2b137cb4-86c4-4dc1-9922-ffe07e37f675" /> |
+| **Excel** | Excel Dashboard - Overview | <img width="1403" height="720" alt="Screenshot 2025-09-27 123438" src="https://github.com/user-attachments/assets/5eb5f0ae-2e37-43cd-b360-df0548a23653" /> |
+| **Excel** | Excel Dashboard - Summary | <img width="1404" height="710" alt="Screenshot 2025-09-27 123426" src="https://github.com/user-attachments/assets/21a62c57-d8f6-4aed-9a58-f4e180bbf765" /> |
+| **Python** | Loan Applications by Term (Donut) | <img width="534" height="530" alt="Screenshot 2025-09-27 124032" src="https://github.com/user-attachments/assets/002514e3-6761-4481-a68e-715f1fa3c38b" /> |
+| **Python** | Loan Applications by Employee Length | <img width="857" height="683" alt="Screenshot 2025-09-27 124051" src="https://github.com/user-attachments/assets/6ac56e38-d5f2-4ae4-a5ae-a3a108c12cf5" /> |
+| **Python** | Loan Applications by Purpose | <img width="857" height="686" alt="Screenshot 2025-09-27 124058" src="https://github.com/user-attachments/assets/eed67079-3bfe-4e91-b39c-1f68edd3b1df" /> |
+| **Python** | Loan Applications by Home Ownership | <img width="1205" height="385" alt="Screenshot 2025-09-27 124113" src="https://github.com/user-attachments/assets/75502202-51ed-4dff-9e41-46a20c98cc6f" /> |
+| **Python** | Total Applications by Month Trend | <img width="1237" height="609" alt="Screenshot 2025-09-27 123955" src="https://github.com/user-attachments/assets/25eb3c02-2ccd-4e97-8f95-4d2432ce4b37" /> |
+| **Python** | Total Received/Funded Amount by Month Trend | <img width="1233" height="609" alt="Screenshot 2025-09-27 123946" src="https://github.com/user-attachments/assets/8f22dc40-ca9b-42d9-8551-d2e9eb0b8347" /> <img width="1236" height="611" alt="Screenshot 2025-09-27 123937" src="https://github.com/user-attachments/assets/ab97b3fb-18c6-41c9-9f39-838f3cd1aaca" /> |
+| **Python** | Total Applications by State | <img width="1058" height="831" alt="Screenshot 2025-09-27 124003" src="https://github.com/user-attachments/assets/a0461d06-67c9-4dfe-9dea-b3695e9246aa" /> |
 
 ---
-
-## 🚀 How to Run the Project
-
-1.  **Clone the Repository:**
-    ```bash
-    git clone https://github.com/your-username/Bank-Loan-Project.git
-    ```
-2.  **Database Setup (Optional but Recommended):**
-    *   Load the `financial_loan.csv` data into a MySQL database.
-    *   The SQL verification queries can be found in the **SQL Queries** file inside the `Excel` and `PowerBI + MySQL` folders.
-3.  **Explore the Analysis:**
-    *   **PowerBI:** Open the `.pbix` file.
-    *   **Excel:** Open the `Excel_Dashboard.xlsx` file.
-    *   **Python:** Open the `Bank Loan Analysis.ipynb` in a Jupyter environment.
