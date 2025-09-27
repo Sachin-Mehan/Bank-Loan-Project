@@ -2,7 +2,7 @@
 
 This project involves a comprehensive data analysis of bank loan application data. The analysis covers key performance indicators (KPIs), trend analysis, geographical distribution, and a breakdown of loan status (Good vs. Bad Loans), with visualizations created across multiple popular tools and the underlying data verified using SQL.
 
-The entire analysis and reporting pipeline has been implemented using **PowerBI**, **Excel**, and **Python (Jupyter Notebooks)**, with the data centrally managed and verified using **MySQL** and SQL queries.
+The Dashboards are fully dynamic and are made in PowerBI and Excel.
 
 ## 📁 Project Structure
 
