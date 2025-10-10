@@ -1,3 +1,5 @@
+[![Bank Loan Project](https://github-readme-stats.vercel.app/api/pin/?username=Sachin-Mehan&repo=Bank-Loan-Project&theme=radical)](https://github.com/Sachin-Mehan/Bank-Loan-Project)
+
 # 🏦 Bank Loan Data Analysis Project
 
 This project involves a comprehensive data analysis of bank loan application data. The analysis covers key performance indicators (KPIs), trend analysis, geographical distribution, and a breakdown of loan status (Good vs. Bad Loans), with visualizations created across multiple popular tools and the underlying data verified using SQL.
