@@ -1,4 +1,4 @@
-[![Bank Loan Project](https://github-readme-stats.vercel.app/api/pin/?username=Sachin-Mehan&repo=Bank-Loan-Project&theme=radical)](https://github.com/Sachin-Mehan/Bank-Loan-Project)
+
 
 # 🏦 Bank Loan Data Analysis Project
 
